@@ -2,7 +2,7 @@
 
 1. [Is Subsequence](https://leetcode.com/problems/valid-palindrome) $\color{#14b886}{Easy}$ &#x2713;
 
-2. Valid Palindrome $\color{#14b886}{Easy}$ &#x2713;
+2. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) $\color{#14b886}{Easy}$ &#x2713;
 
 3. Longest Common Prefix $\color{#14b886}{Easy}$
 
