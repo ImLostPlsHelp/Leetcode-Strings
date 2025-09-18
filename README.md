@@ -4,7 +4,7 @@
 
 2. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) $\color{#14b886}{Easy}$ &#x2713;
 
-3. Longest Common Prefix $\color{#14b886}{Easy}$
+3. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description)Longest Common Prefix $\color{#14b886}{Easy}$ &#x2713;
 
 4. Zigzag Conversion $\color{#ecbf14}{Medium}$
 
@@ -17,3 +17,5 @@
 of the last element where we have found the continuation of the subsequence
 
 2. The solution is to use a two pointer to check if the char at each pointer is a alphanumeric or not. If they are, then compare each of the characters. If they're different return false
+
+3. The solution is to use indexOf to check if the elements have any prefixes in common. Need to remember that function
